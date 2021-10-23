@@ -1,3 +1,5 @@
+I created this as part of the Columbia University Fullstack SWE Bootcamp where I am an assistant instructor. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
